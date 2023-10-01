@@ -1,0 +1,95 @@
+html {
+	font-size: 18px;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+	margin: 0;
+}
+
+h1 {
+	font-size: 2rem;
+	font-weight: 600;
+	color: #000000;
+	margin: 1.2rem;
+}
+
+.projects {
+	text-align: center;
+}
+
+.projects img {
+	width: 100%;
+	height: auto;
+}
+
+.projects p {
+	margin-bottom: 1.5rem;
+	text-align: justify;
+	text-align-last: center;
+}
+
+.projects figcaption {
+	margin-top: 0.5rem;
+}
+
+.navbar {
+	min-height: 3rem;
+}
+
+.bg-projects {
+	border-bottom: 1px solid #e4e4e4;
+}
+
+.article {
+	text-align: justify;
+	font-size: 1rem;
+	padding: 1.5rem;
+	margin-bottom: 2rem;
+}
+
+.list-group-item-light:hover {
+	background-color: #f0f0f0 !important;
+}
+
+.list-group .active {
+	background-color: #000000 !important;
+	cursor: default;
+}
+
+.blockquote {
+	line-height: 120%;
+}
+
+.leftside {
+	padding-top: 2rem;
+}
+
+@media (max-width: 575px)
+{
+	.article
+	{
+		margin: 2rem 1rem;
+		text-align: justify;
+		font-size: 0.9rem;
+	}
+	
+	.float-left, .float-right
+	{
+		max-width: 50%;
+	}
+	
+	.blockquote
+	{
+		font-size: 1rem;
+	}
+	
+	.list-group
+	{
+		text-align: left;
+	}
+
+	.h3 {
+		text-align: left;
+	}
+}
