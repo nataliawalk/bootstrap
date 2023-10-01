@@ -1,9 +1,9 @@
 # bootstrap
-![bootstrap1](https://github.com/nataliawalk/bootstrap/assets/144123296/ce429245-e3f5-4cf0-b9bb-f189ed3c7ade)
-![bootstrap2](https://github.com/nataliawalk/bootstrap/assets/144123296/b7260421-aee3-4f74-9d4b-4f19ffc4d836)
-![bootstrap3](https://github.com/nataliawalk/bootstrap/assets/144123296/d227d7dd-35e5-490e-82b4-fffc76b9ea61)
-![bootstrap4](https://github.com/nataliawalk/bootstrap/assets/144123296/118d7f68-51c0-4543-8a03-0b6570f7ea35)
-![bootstrap5](https://github.com/nataliawalk/bootstrap/assets/144123296/36fa1fde-a710-4df1-89c7-82cc9c8a2d97)
-![bootstrap6](https://github.com/nataliawalk/bootstrap/assets/144123296/32a62944-cf06-4a04-8da7-7a2aecc0075a)
-![bootstrap7](https://github.com/nataliawalk/bootstrap/assets/144123296/fbf958c7-1671-411a-a9eb-5807d1b63266)
-![bootstrap8](https://github.com/nataliawalk/bootstrap/assets/144123296/2ac2338b-37e3-4367-ae5f-175e5a108c9c)
+![bootstrap1](https://github.com/nataliawalk/bootstrap/assets/144123296/71383939-7d46-493f-b5f4-f5d4b7ad7f83)
+![bootstrap2](https://github.com/nataliawalk/bootstrap/assets/144123296/fe7ef131-9342-48f3-b867-dee2a8deaee4)
+![bootstrap3](https://github.com/nataliawalk/bootstrap/assets/144123296/c102e9a6-97ac-4253-9434-5002c101b438)
+![bootstrap4](https://github.com/nataliawalk/bootstrap/assets/144123296/7c6b920c-8fa4-4df8-8edd-df58ccd88d7b)
+
+
+![bootstrap5](https://github.com/nataliawalk/bootstrap/assets/144123296/91fa88ce-b56f-4cb2-a54c-6d7dbe685d9c)
+![bootstrap6](https://github.com/nataliawalk/bootstrap/assets/144123296/d00e8f51-3252-4a25-82e7-00fab33f5c63)
